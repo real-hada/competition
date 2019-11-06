@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.2.0" pages="1" etag="o2qeWWy4AAMSo4MyorNH" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" modified="2019-11-06T11:03:48.879Z" host="www.draw.io">
+<mxfile type="github" version="12.2.0" pages="1" etag="rHIZdFVBuP2AtGWVbGGU" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" modified="2019-11-06T13:40:38.020Z" host="www.draw.io">
   <diagram id="kNJaRSYR2laIv3SLOteu" name="Page-1">
     <mxGraphModel grid="1" shadow="0" math="0" background="none" pageHeight="1169" pageWidth="827" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="562" dx="1024">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="h46t7ZVLvmUZL9ephCK2-17" value="person" parent="1" vertex="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;">
           <mxGeometry as="geometry" width="160" height="180" x="333" y="10"/>
         </mxCell>
-        <mxCell id="h46t7ZVLvmUZL9ephCK2-18" value="+ d: str&#xa;+ name : str&#xa;+ sex : str&#xa;+ age : int&#xa;+ number : str&#xa;" parent="h46t7ZVLvmUZL9ephCK2-17" vertex="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;">
+        <mxCell id="h46t7ZVLvmUZL9ephCK2-18" value="+ id: str&#xa;+ name : str&#xa;+ sex : str&#xa;+ age : int&#xa;+ number : str&#xa;" parent="h46t7ZVLvmUZL9ephCK2-17" vertex="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;">
           <mxGeometry as="geometry" width="160" height="79" y="26"/>
         </mxCell>
         <mxCell id="h46t7ZVLvmUZL9ephCK2-19" value="" parent="h46t7ZVLvmUZL9ephCK2-17" vertex="1" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;">
